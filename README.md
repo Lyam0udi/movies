@@ -2,6 +2,6 @@
 
 front-end : https://github.com/Lyam0udi/movie-gold-v1
 
-NB : configure : application.properties
+NB : Should configure : application.properties
 
-MongoDB
+MongoDB Atlas.
